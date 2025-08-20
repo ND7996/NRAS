@@ -117,7 +117,3 @@ Key residues observed in stable complexes:
 
 ---
 
-## Citation
-If you use this workflow, please cite:  
-*Das, N. "In Silico Identification of Novel Inhibitors Against NRAS in Melanoma." (2019). MSc Project Report, Bioinformatics Centre, Savitribai Phule Pune University.*
-
